@@ -83,3 +83,7 @@ Un astronauta empuja una nave de 1000 kg en el espacio. Si la nave acelera a 0.1
 1. Sí, porque no hay aceleración $\sum F = 0$.  
 2. $m = \dfrac{F}{a} = \dfrac{20}{4} = 5 \, \text{kg}$.  
 3. Por acción-reacción: tu empuje sobre el bote lo aleja.  
+
+---
+
+**Temas para repasar:** Vectores: suma, resta, conversión.
