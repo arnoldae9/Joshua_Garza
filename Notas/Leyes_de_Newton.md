@@ -69,7 +69,7 @@ $$F = m \cdot a = 5\,\text{kg} \times 3\,\text{m/s²} = 15\,\text{N}$$
 Un astronauta empuja una nave de 1000 kg en el espacio. Si la nave acelera a 0.1 m/s², ¿qué fuerza siente el astronauta?  
 
 **Solución:**  
-- Fuerza de la nave: \( F = m \cdot a = 1000 \times 0.1 = 100\,\text{N} \).  
+- Fuerza de la nave: $F = m \cdot a = 1000 \times 0.1 = 100\,\text{N}$.  
 - Por la tercera ley, el astronauta siente una fuerza igual y opuesta: **100 N en dirección contraria**.  
 
 ---
