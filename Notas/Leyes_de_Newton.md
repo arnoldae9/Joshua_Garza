@@ -2,6 +2,8 @@
 
 # Las Tres Leyes de Newton
 
+![Las 3 leyes de Newton](Imagen_3_leyes_de_newton.jpg)
+
 ## 1. Primera Ley de Newton (Ley de Inercia)
 **Enunciado:**  
 "Todo cuerpo permanece en reposo o en movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él."
