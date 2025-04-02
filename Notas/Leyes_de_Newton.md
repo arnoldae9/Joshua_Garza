@@ -61,9 +61,9 @@ Un coche viaja a 90 km/h en línea recta. Si el conductor frena bruscamente, ¿p
 ¿Qué fuerza se necesita para acelerar un objeto de 5 kg a 3 m/s²?  
 
 **Solución:**  
-\[
+$$
 F = m \cdot a = 5\,\text{kg} \times 3\,\text{m/s²} = 15\,\text{N}
-\]
+$$
 
 ---
 
