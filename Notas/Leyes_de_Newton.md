@@ -20,9 +20,8 @@ Un libro sobre una mesa no se mueve a menos que alguien lo empuje.
 "La aceleración de un cuerpo es directamente proporcional a la fuerza neta aplicada e inversamente proporcional a su masa."
 
 **Fórmula:**  
-\[
-\vec{F} = m \cdot \vec{a}
-\]
+
+$$\vec{F} = m \cdot \vec{a}$$
 
 **Ejemplo:**  
 Empujar un carrito con más fuerza hace que acelere más.
@@ -34,9 +33,7 @@ Empujar un carrito con más fuerza hace que acelere más.
 "Para toda acción hay una reacción igual y opuesta."
 
 **Fórmula:**  
-\[
-\vec{F}_{AB} = -\vec{F}_{BA}
-\]
+$$\vec{F}_{AB} = -\vec{F}_{BA}$$
 
 **Ejemplo:**  
 Al saltar, empujas el suelo hacia abajo (acción), y el suelo te empuja hacia arriba (reacción).
@@ -60,9 +57,7 @@ Un coche viaja a 90 km/h en línea recta. Si el conductor frena bruscamente, ¿p
 ¿Qué fuerza se necesita para acelerar un objeto de 5 kg a 3 m/s²?  
 
 **Solución:**  
-$$
-F = m \cdot a = 5\,\text{kg} \times 3\,\text{m/s²} = 15\,\text{N}
-$$
+$$F = m \cdot a = 5\,\text{kg} \times 3\,\text{m/s²} = 15\,\text{N}$$
 
 ---
 
@@ -82,6 +77,6 @@ Un astronauta empuja una nave de 1000 kg en el espacio. Si la nave acelera a 0.1
 3. **Tercera Ley:** Si saltas desde un bote pequeño al muelle, ¿por qué el bote se mueve en dirección opuesta?  
 
 **Respuestas:**  
-1. Sí, porque no hay aceleración (\(\sum F = 0\)).  
-2. \( m = F/a = 20/4 = 5\,\text{kg} \).  
+1. Sí, porque no hay aceleración $\sum F = 0$.  
+2. $m = \dfrac{F}{a} = \dfrac{20}{4} = 5 \, \text{kg}$.  
 3. Por acción-reacción: tu empuje sobre el bote lo aleja.  
