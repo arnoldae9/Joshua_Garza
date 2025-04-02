@@ -33,12 +33,8 @@ Empujar un carrito con más fuerza hace que acelere más.
 "Para toda acción hay una reacción igual y opuesta."
 
 **Fórmula:**  
-<<<<<<< HEAD
 
-$$\vec{F}_{AB} = -\vec{F}_{BA}$$
-=======
 $$\vec{F}\_{AB} = - \vec{F}\_{BA}$$
->>>>>>> 10832d7 (actualizacion formulas leyes de newton)
 
 **Ejemplo:**  
 Al saltar, empujas el suelo hacia abajo (acción), y el suelo te empuja hacia arriba (reacción).
