@@ -21,7 +21,7 @@ Un libro sobre una mesa no se mueve a menos que alguien lo empuje.
 
 **Fórmula:**  
 
-$$\vec{F} = m \cdot \vec{a}$$
+$$\vec{F}_{AB} = m \cdot \vec{a}$$
 
 **Ejemplo:**  
 Empujar un carrito con más fuerza hace que acelere más.
