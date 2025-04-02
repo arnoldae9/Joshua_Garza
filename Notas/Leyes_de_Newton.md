@@ -7,9 +7,8 @@
 "Todo cuerpo permanece en reposo o en movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él."
 
 **Fórmula:**  
-\[
-\sum \vec{F} = 0 \implies \vec{v} = \text{constante}
-\]
+
+$$\sum \vec{F} = 0 \implies \vec{v} = \text{constante}$$
 
 **Ejemplo:**  
 Un libro sobre una mesa no se mueve a menos que alguien lo empuje.
