@@ -13,7 +13,7 @@ Temario:
 Pendentes Joshua
 - [ ] vectores
 - [ ] clase
-- [ ] problema de cajita con  grados
+- [ ] problema de cajita con 60 grados
 
 Pendientes Arnold
 - [ ] Subir notas de suma de vectores
