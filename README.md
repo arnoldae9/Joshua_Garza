@@ -10,6 +10,12 @@ Temario:
 - [ ] Movimiento de rotación uniforme y Trabajo
 - [ ] Energía y potencia. 
 
+Pendentes Joshua
+- [ ] vectores
+- [ ] clase
+- [ ] problema de cajita con  grados
+
+Pendientes Arnold
 - [ ] Subir notas de suma de vectores
 - [ ] Subir notas de Fuerza de fricción
 - [ ] Subir imagenes del problema de la cajita
