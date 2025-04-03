@@ -4,7 +4,7 @@ En la carpeta notas estarán las notas de las clases que tengamos, mientras que 
 Temario:
 - [ ] Sistemas de fuerzas
 - [ ] Vectores
-- [ ] Leyes de Newton 
+- [x] Leyes de Newton 
 - [ ] Movimiento uniformemente acelerado
 - [ ] Movimiento circular
 - [ ] Movimiento de rotación uniforme y Trabajo
