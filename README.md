@@ -14,8 +14,3 @@ Pendentes Joshua
 - [ ] vectores
 - [ ] clase
 - [ ] problema de cajita con 60 grados
-
-Pendientes Arnold
-- [ ] Subir notas de suma de vectores
-- [ ] Subir notas de Fuerza de fricción
-- [ ] Subir imagenes del problema de la cajita
