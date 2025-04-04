@@ -1,5 +1,3 @@
-# Leyes de Newton
-
 # Las Tres Leyes de Newton
 
 ![Las 3 leyes de Newton](Imagenes/Imagen_3_leyes_de_newton.jpg)

@@ -2,7 +2,8 @@
 
 ## Definición
 La **fuerza de fricción** (o rozamiento) es una fuerza resistente que se opone al movimiento relativo entre dos superficies en contacto. Actúa paralelamente a las superficies y en dirección opuesta al movimiento o intento de movimiento.
-
+> [!WARNING]
+> Esto pertenece a un curso de educación superior.
 ## Tipos de Fricción
 1. **Fricción Estática**  
    - Ocurre cuando un objeto está en reposo y se intenta mover.  
@@ -61,5 +62,5 @@ $$N = mg \cdot \cos(\theta)$$
 ## Diagrama (Ejemplo)
 ![Fuerza Normal diagramas](https://www.fisicalab.com/sites/all/files/contenidos/leyesnewton/fuerza-normal-av.png)
 
-
-**Nota**: La normal *no* es siempre igual al peso. ¡Depende del contexto! ⚠️
+> [!NOTE]
+> La normal *no* es siempre igual al peso. ¡Depende del contexto! ⚠️
