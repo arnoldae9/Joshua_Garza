@@ -52,7 +52,7 @@ $$N = mg \cdot \cos(\theta)$$
 1. **Libro sobre una mesa**:  
    - La normal ($N$) contrarresta el peso del libro ($mg$).  
 2. **Caja en una rampa**:  
-   - $N$ es menor que el peso porque solo compensa la componente perpendicular ($mg \cdot \cos(\theta)$).  
+   - $N$ es menor que el peso porque solo compensa la componente perpendicular $mg\cos(\theta)$.  
 
 ## Relación con Otras Fuerzas
 - **Fricción**: La fuerza de rozamiento ($f$) depende de la normal ($f = \mu N$), donde $\mu$ es el coeficiente de fricción.  
