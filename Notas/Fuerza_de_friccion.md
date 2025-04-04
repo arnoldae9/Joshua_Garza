@@ -7,14 +7,14 @@ La **fuerza de fricción** (o rozamiento) es una fuerza resistente que se opone 
 ## Tipos de Fricción
 1. **Fricción Estática**  
    - Ocurre cuando un objeto está en reposo y se intenta mover.  
-   - Su magnitud varía hasta un valor máximo (`f_s ≤ μ_s · N`), donde:  
-     - `μ_s`: Coeficiente de fricción estática.  
-     - `N`: Fuerza normal (perpendicular a la superficie).  
+   - Su magnitud varía hasta un valor máximo ($f_s ≤ μ_s · N$), donde:  
+     - $μ_s$: Coeficiente de fricción estática.  
+     - $N$: Fuerza normal (perpendicular a la superficie).  
 
 2. **Fricción Cinética (Dinámica)**  
    - Actúa cuando el objeto ya está en movimiento.  
-   - Su magnitud es constante: `f_k = μ_k · N`, donde:  
-     - `μ_k`: Coeficiente de fricción cinética (`μ_k < μ_s`).  
+   - Su magnitud es constante: $f_k = μ_k · N$, donde:  
+     - $μ_k$: Coeficiente de fricción cinética ($μ_k < μ_s$).  
 
 ## Factores que Influyen
 - **Naturaleza de las superficies**: Rugosidad o lisura.  
