@@ -24,3 +24,5 @@ Un **sistema de fuerzas** es un conjunto de fuerzas que actúan simultáneamente
   ```math
   \vec{F} = F_x \hat{i} + F_y \hat{j} + F_z \hat{k}
   ```
+
+***Nota:*** Solo necesitamos lo que le mencione en la clase, como hacer el *dibujo*.
