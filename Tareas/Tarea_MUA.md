@@ -6,7 +6,7 @@ Un coche de carreras que viaja a 108 km/h frena con aceleración constante de �
 - b) Distancia mínima requerida para frenar completamente.
 > ***Solución***:
 >>**Convertir velocidad:** $v_0=108×1000/3600=30 m/s$.\
->>**Tiempo hasta detenerse:** $v=0: 0=30+(−8)t⇒t=\dfrac{-30}{-8}=3.75 s$.
+>>**Tiempo hasta detenerse:** $v=0: 0=30+(−8)t⇒t=\dfrac{-30}{-8}=3.75 s$.\
 >>**Distancia de frenado:** $Δx=30×3.75+\dfrac{1}{2}(−8)×(3.75)^2=56.25 m$.
 
 > [!TIP]
