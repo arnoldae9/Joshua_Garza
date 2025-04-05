@@ -18,8 +18,8 @@ Un tren de alta velocidad parte del reposo con aceleración constante de 0.6 m/s
 - a) Velocidad después de 1 minuto.
 - b) Distancia recorrida en ese tiempo.
 >Solución:
->>**Velocidad final:** $v=0+0.6×60=36 \, m/s \quad (129.6 km/h)$.\
->>**Distancia:** $Δx=\dfrac{1}{2}×0.6×60^2=1080\,m$.
+>>**Velocidad final:** $v=0+0.6×60=36 m/s \quad (129.6 km/h)$.\
+>>**Distancia:** $Δx=\dfrac{1}{2}×0.6×60^2=1080 m$.
 
 > [!CAUTION]
 > En la ecuación de distancia una parte se volvió cero, explique por que ...
@@ -31,12 +31,12 @@ Un brazo robótico mueve una pieza desde el reposo con aceleración de 1.2 m/s²
 - b) Distancia total recorrida.
 
 >Solución:
->>**Velocidad máxima:** $v_{max}=0+1.2×3=3.6 m/s$\
+>>**Velocidad máxima:** $v_{max}=0+1.2×3=3.6 m/s$
 
 >>**Tiempo de frenado:** $0=3.6+(−0.8)t⇒t=4.5 s$.\
 >>**Distancias:**
->>>**Aceleración:** $Δx_1​=\dfrac{1}{2}​×1.2×3^2=5.4\,m$.\
->>>**Frenado:** $Δx_2=3.6×4.5+\dfrac{1}{2}​(−0.8)×4.5^2=8.1\,m$.\
+>>>**Aceleración:** $Δx_1​=\dfrac{1}{2}​×1.2×3^2=5.4 m$.\
+>>>**Frenado:** $Δx_2=3.6×4.5+\dfrac{1}{2}​(−0.8)×4.5^2=8.1 m$.\
 >>>**Total:** $5.4+8.1=13.5 m$.
 
 > [!WARNING]
@@ -50,12 +50,12 @@ Un avión despega después de acelerar uniformemente durante 25 s en una pista d
 
 >Solución: 
 >>**Convertir distancia:** $Δx=1500 m$.\
->>**Aceleración:** $1500=0+\dfrac{1}{2}a×25^2⇒a=4.8\, m/s²$
+>>**Aceleración:** $1500=0+\dfrac{1}{2}a×25^2⇒a=4.8  m/s²$
 
 > [!WARNING]
 > Por que la velocidad inicial vale 0 si no dice reposo?
 
->>**Velocidad al despegar:** $v=0+4.8×25=120\,m/s \quad (432\,km/h)$.
+>>**Velocidad al despegar:** $v=0+4.8×25=120 m/s \quad (432 km/h)$.
 
 5. **Cinta transportadora (Ingeniería Industrial)**
 
