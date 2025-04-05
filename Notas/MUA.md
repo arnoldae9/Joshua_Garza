@@ -4,7 +4,6 @@
 El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil experimenta cambios **constantes** en su velocidad debido a una aceleración constante ($\vec{a} = \text{cte}$).
 
 ---
-
 ## 🔍 Características Principales 🤙
 1. **Aceleración constante**:  
    - Misma magnitud, dirección y sentido en todo el movimiento.  
