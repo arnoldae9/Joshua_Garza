@@ -1,5 +1,6 @@
 # Movimiento Uniformemente Acelerado (MUA)
-
+***Indice***\
+[Fórmulas](#fórmulas-del-movimiento-uniformemente-acelerado-muamrua)
 ## 📌 Definición
 El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil experimenta cambios **constantes** en su velocidad debido a una aceleración constante ($\vec{a} = \text{cte}$).
 
@@ -13,22 +14,6 @@ El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil exp
    - La velocidad varía proporcionalmente al tiempo.  
 
 ---
-
-## 📊 Ecuaciones Fundamentales
-| Variable       | Ecuación                          | Descripción                          |
-|----------------|-----------------------------------|--------------------------------------|
-| **Velocidad**  | $v = v_0 + a \cdot t$            | Velocidad final en función del tiempo. |
-| **Posición**   | $x = x_0 + v_0 t + \frac{1}{2} a t^2$ | Desplazamiento (con posición inicial $x_0$). |
-| **Sin tiempo** | $v^2 = v_0^2 + 2a \Delta x$      | Relación entre velocidad y distancia. |
-
-Donde:  
-- $v_0$: Velocidad inicial (m/s).  
-- $a$: Aceleración (m/s²).  
-- $t$: Tiempo (s).  
-- $\Delta x$: Distancia recorrida (m).  
-
----
-
 ## 📈 Gráficas del MUA
 1. **Aceleración vs. Tiempo ($a$ vs $t$)**:  
    - Recta horizontal ($a = \text{cte}$).  
@@ -59,7 +44,14 @@ Un automóvil parte del reposo ($v_0 = 0$) y acelera a $2\, \text{m/s}^2$ durant
 - **Aceleración negativa (desaceleración)**:  
   - La velocidad disminuye (ej: frenado de un coche).  
 - **Caída libre**:  
-  - Movimiento vertical con $a = -g$ ($g = 9.8\, \text{m/s}^2$).  
+  - Movimiento vertical con $a = g$ ($g = 9.8\, \text{m/s}^2$).
+- **Tiro Vertical**:
+  - Movimiento vertical con $a = -g$ ($g = -9.8\, \text{m/s}^2$).
+- **Tiro parabólico**:
+  - Movimiento en dos dimensiones.
+
+> [!NOTE]
+> Los movimientos antes mencionados se verán en otro documento.
 
 ---
 
@@ -67,8 +59,51 @@ Un automóvil parte del reposo ($v_0 = 0$) y acelera a $2\, \text{m/s}^2$ durant
 | **MRU**                     | **MUA**                      |
 |------------------------------|------------------------------|
 | Velocidad constante ($a=0$). | Velocidad variable ($a \neq 0$). |
-| $\Delta x = v \cdot t$.      | $\Delta x = v_0 t + \frac{1}{2} a t^2$. |
+| $\Delta x = v \cdot t$.      | $\Delta x = v_0 t + \dfrac{1}{2} a t^2$. |
 
 ---
+# Fórmulas del Movimiento Uniformemente Acelerado (MUA/MRUA)
 
-**¿Necesitas resolver un problema específico?** ¡Proporciona los datos y te ayudo! 🚀
+| Fórmula                          | Variables                                                                 | Descripción                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| $v = v_0 + a·t$                   | **v**: Velocidad final (m/s)<br>**v₀**: Velocidad inicial (m/s)<br>**a**: Aceleración (m/s²)<br>**t**: Tiempo (s) | Velocidad en función del tiempo.                                             |
+| $x = x₀ + v₀·t + \dfrac{at^2}{2}$         | **x**: Posición final (m)<br>**x₀**: Posición inicial (m)                 | Desplazamiento (con posición inicial).                                      |
+| $v² = v₀² + 2·a·(x - x₀)$        | **Δx**: Distancia recorrida (x - x₀)                                      | Relación entre velocidad y distancia (sin tiempo).                           |
+| $Δx = v₀·t + \dfrac{at^2}{2}$             | **Δx**: Distancia recorrida (m)                                           | Versión simplificada si x₀ = 0.                                             |
+| $Δx = (v + v₀)·\dfrac{t}{2}$            |                                                                           | Distancia recorrida usando velocidad promedio.                               |
+| $a = \dfrac{v - v_0}{t}$               |                                                                           | Definición de aceleración (si es constante).                                 |
+---
+
+## 📊 Ecuaciones Fundamentales
+| Variable       | Ecuación                          | Descripción                          |
+|----------------|-----------------------------------|--------------------------------------|
+| **Velocidad**  | $v = v_0 + a \cdot t$            | Velocidad final en función del tiempo. |
+| **Posición**   | $x = x_0 + v_0 t + \frac{1}{2} a t^2$ | Desplazamiento (con posición inicial $x_0$). |
+| **Sin tiempo** | $v^2 = v_0^2 + 2a \Delta x$      | Relación entre velocidad y distancia. |
+
+Donde:  
+- $v_0$: Velocidad inicial (m/s).  
+- $a$: Aceleración (m/s²).  
+- $t$: Tiempo (s).  
+- $\Delta x$: Distancia recorrida (m).  
+---
+## 📌 Casos Especiales
+
+| Situación                       | Fórmula Aplicable                          | Notas                                                                       |
+|----------------------------------|--------------------------------------------|-----------------------------------------------------------------------------|
+| **Parte del reposo** (v₀ = 0)    | $v = a·t$<br>$Δx = \dfrac{at^2}{2}$                 | Ejemplo: Caída libre inicial.                                               |
+| **Se detiene** (v = 0)           | $0 = v₀² + 2·a·Δx$                         | Útil para calcular distancia de frenado.                                    |
+| **Aceleración negativa**         | $a$ se reemplaza por $-a$                  | Ejemplo: Frenado ($a = -3 m/s²$).                                           |
+
+## ⚠️ Notas Clave
+1. **Unidades**: Todas las magnitudes deben estar en el **Sistema Internacional** (metros, segundos, m/s²).
+2. **Trayectoria**: Las fórmulas asumen movimiento **rectilíneo**.
+3. **Signos**: 
+   - $a > 0$: Aceleración (aumenta velocidad).
+   - $a < 0$: Desaceleración (disminuye velocidad).
+
+## 🌟 Ejemplo Práctico
+**Problema**: Un coche acelera desde 10 m/s con $a = 2 m/s²$ durante 5 s.  
+**Solución**:  
+- Velocidad final: $v = 10 + (2)(5) = 20 m/s$  
+- Distancia: $Δx = (10)(5) + \dfrac{(2)(5)²}{2} = 50 + 25 = 75 m$  
