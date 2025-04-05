@@ -5,7 +5,7 @@ El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil exp
 
 ---
 
-## 🔍 Características Principales
+## 🔍 Características Principales 🤙
 1. **Aceleración constante**:  
    - Misma magnitud, dirección y sentido en todo el movimiento.  
 2. **Trayectoria rectilínea**:  
