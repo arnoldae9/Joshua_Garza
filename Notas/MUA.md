@@ -30,14 +30,14 @@ Donde:
 ---
 
 ## 📈 Gráficas del MUA
-1. **Posición vs. Tiempo ($x$ vs $t$)**:  
-   - Parábola (concavidad depende del signo de $a$).  
+1. **Aceleración vs. Tiempo ($a$ vs $t$)**:  
+   - Recta horizontal ($a = \text{cte}$).  
 2. **Velocidad vs. Tiempo ($v$ vs $t$)**:  
    - Línea recta con pendiente $= a$.  
-3. **Aceleración vs. Tiempo ($a$ vs $t$)**:  
-   - Recta horizontal ($a = \text{cte}$).  
+3. **Posición vs. Tiempo ($d$ vs $t$)**:  
+   - Parábola (concavidad depende del signo de $a$).  
 
-![Gráficas MUA](https://www.fisicalab.com/sites/all/files/contenidos/cinematica/graficas_mrua.png)  
+![Gráficas MUA](https://images.squarespace-cdn.com/content/v1/5326238be4b055350d9396f4/1504449926748-QXGSX7VRY9386DEXN6U7/mua-Gr%C3%A1ficas-Resumen.png)  
 *(Ejemplo de gráficas: posición, velocidad y aceleración)*.  
 
 ---
