@@ -2,7 +2,7 @@
 ***Indice***\
 [Fórmulas](#fórmulas-del-movimiento-uniformemente-acelerado-muamrua)
 ## 📌 Definición
-El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil experimenta cambios **constantes** en su velocidad debido a una aceleración constante ($\vec{a} = \text{cte}$).
+El **movimiento uniformemente acelerado (MUA)** es aquel en el que un móvil experimenta cambios **constantes** en su velocidad debido a una aceleración constante $\vec{a} = \text{cte}$.
 
 ---
 ## 🔍 Características Principales 🤙
