@@ -11,17 +11,11 @@ La **caída libre** es un movimiento rectilíneo en el que un objeto se desplaza
 
 ## Fórmulas Principales
 1. **Velocidad en función del tiempo**:
-   $
-   v = v_0 + g \cdot t
-   $
+   $v = v_0 + g \cdot t$
 2. **Altura (posición)**:
-   $
-   h = h_0 + v_0 \cdot t + \frac{1}{2} g \cdot t^2
-   $
+   $h = h_0 + v_0 \cdot t + \frac{1}{2} g \cdot t^2$
 3. **Velocidad en función de la altura** (sin tiempo):
-   $
-   v^2 = v_0^2 + 2g \Delta h
-   $
+   $v^2 = v_0^2 + 2g \Delta h$
 
 ## Consideraciones
 - **Convención de signos**: Depende del sistema de referencia. Usualmente:
