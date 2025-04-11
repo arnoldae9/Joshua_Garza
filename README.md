@@ -7,6 +7,7 @@ Temario:
 - [x] Vectores
 - [x] Leyes de Newton 
 - [x] Movimiento uniformemente acelerado
+  - [x] Casos especiales
   - [ ] Tiro parabólico
 - [ ] Movimiento circular
 - [ ] Movimiento de rotación uniforme y Trabajo
