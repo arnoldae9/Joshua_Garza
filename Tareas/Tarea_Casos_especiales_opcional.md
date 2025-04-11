@@ -14,8 +14,17 @@ b) La velocidad con la que impacta.
 **Solución**:  
 a) Usando $h = h_0 + v_0 t + \dfrac{1}{2} g t^2$:  
 ```math
+<<<<<<< HEAD
 \displaystyle 0 = 80 + 0 \cdot t + \dfrac{1}{2} (-9.81) t^2 \implies t^2 = \frac{2 \cdot 80}{9.81} \implies t \approx 4.04 \quad \text{s}
+=======
+\displaystyle 0 = 80 + 0 \cdot t + \dfrac{1}{2} (-9.81) t^2 \implies t = \sqrt{ \frac{2 \cdot 80}{9.81} } \approx 4.04 \quad \text{s}
+>>>>>>> origin/release/casos_especiales_MUA
 ```
+
+$$
+\sqrt{\frac{4}{2}}
+$$
+
 b) Usando $v = v_0 + g t$:  
 $v = 0 + (-9.81) \cdot 4.04 \approx -39.6 \quad \text{m/s}$
 > [!NOTE]
