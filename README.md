@@ -20,6 +20,7 @@ Pendientes Joshua
 - [x] problemas MUA
 - [ ] Problemas de referencia TP
 - [ ] Revisar notas tiro vertical y caída libre
+- [ ] Tarea de casos especiales MUA (opcional)
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
