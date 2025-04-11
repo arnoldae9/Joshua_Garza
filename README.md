@@ -22,5 +22,5 @@ Pendientes Joshua
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
-- [ ] Agregar notas de tiro vertical y caída libre
+- [x] Agregar notas de tiro vertical y caída libre
 - [ ] Agregar las notas de tiro parabólico
