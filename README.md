@@ -7,6 +7,7 @@ Temario:
 - [x] Vectores
 - [x] Leyes de Newton 
 - [x] Movimiento uniformemente acelerado
+  - [x] Casos especiales
   - [ ] Tiro parabólico
 - [ ] Movimiento circular
 - [ ] Movimiento de rotación uniforme y Trabajo
@@ -19,8 +20,9 @@ Pendientes Joshua
 - [x] problemas MUA
 - [ ] Problemas de referencia TP
 - [ ] Revisar notas tiro vertical y caída libre
+- [ ] Tarea de casos especiales MUA (opcional)
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
-- [ ] Agregar notas de tiro vertical y caída libre
+- [x] Agregar notas de tiro vertical y caída libre
 - [ ] Agregar las notas de tiro parabólico
