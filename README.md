@@ -26,4 +26,5 @@ Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
 - [x] Agregar notas de tiro vertical y caída libre
 - [x] Agregar las notas de tiro parabólico
-- [ ] Agregar la tarea de tiro parabólico
+- [x] Agregar la tarea de tiro parabólico
+- [ ] Hay una clase pagada pendiente
