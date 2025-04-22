@@ -93,7 +93,7 @@ x = v_{0x} \cdot t = 15 \cdot 0.8 \cdot 2 = 24 \, \text{m}
 ``` math
 y = v_{0y} \cdot t - \frac{1}{2} g t^2 = 15 \cdot 0.6 \cdot 2 - 4.9 \cdot 4 \approx 18 - 19.6 = -1.6 \, \text{m}
 ```  
-*(La pelota está cayendo, ya que $y < 0$).*
+*(La pelota está cayendo, ya que $y<0$).*
 
 **b) Ecuación de la trayectoria:**  
 ``` math
