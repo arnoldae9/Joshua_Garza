@@ -8,7 +8,7 @@ Temario:
 - [x] Leyes de Newton 
 - [x] Movimiento uniformemente acelerado
   - [x] Casos especiales
-  - [ ] Tiro parabólico
+  - [x] Tiro parabólico
 - [ ] Movimiento circular
 - [ ] Movimiento de rotación uniforme y Trabajo
 - [ ] Energía y potencia. 
@@ -19,7 +19,7 @@ Pendientes Joshua
 - [x] problemas de referencia MUA
 - [x] problemas MUA
 - [ ] Problemas de referencia TP
-- [ ] Revisar notas tiro vertical y caída libre
+- [x] Revisar notas tiro vertical y caída libre
 - [ ] Tarea de casos especiales MUA (opcional)
 
 Pendientes Arnold
@@ -27,4 +27,4 @@ Pendientes Arnold
 - [x] Agregar notas de tiro vertical y caída libre
 - [x] Agregar las notas de tiro parabólico
 - [x] Agregar la tarea de tiro parabólico
-- [ ] Hay una clase pagada pendiente
+- [x] Hay una clase pagada pendiente
