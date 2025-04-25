@@ -9,7 +9,7 @@ Temario:
 - [x] Movimiento uniformemente acelerado
   - [x] Casos especiales
   - [x] Tiro parabólico
-- [ ] Movimiento circular
+- [x] Movimiento circular
 - [ ] Movimiento de rotación uniforme y Trabajo
 - [ ] Energía y potencia. 
 
@@ -21,6 +21,7 @@ Pendientes Joshua
 - [ ] Problemas de referencia TP
 - [x] Revisar notas tiro vertical y caída libre
 - [ ] Tarea de casos especiales MUA (opcional)
+- [ ] Tarea de movimiento circular
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
@@ -28,3 +29,4 @@ Pendientes Arnold
 - [x] Agregar las notas de tiro parabólico
 - [x] Agregar la tarea de tiro parabólico
 - [x] Hay una clase pagada pendiente
+- [ ] Correcciones en las notas de movimiento circular
