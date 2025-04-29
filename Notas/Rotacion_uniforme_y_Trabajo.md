@@ -21,7 +21,7 @@ Un disco gira a **10 rad/s** constantes:
 ## 2. Trabajo (Energía Mecánica)
 El **trabajo (W)** es la energía transferida cuando una fuerza (**F**) desplaza un objeto una distancia (**d**).  
 Se calcula como:  
-\[ W = F \cdot d \cdot \cos(\theta) \]  
+$$W = F \cdot d \cdot \cos(\theta)$$  
 donde θ es el ángulo entre la fuerza y el desplazamiento.
 
 ### Casos clave:
