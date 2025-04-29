@@ -1,4 +1,4 @@
-[200~# Resumen de Física: Rotación Uniforme y Trabajo
+# Resumen de Física: Rotación Uniforme y Trabajo
 
 ## 1. Rotación Uniforme
 La **rotación uniforme** ocurre cuando un objeto gira alrededor de un eje fijo con una **velocidad angular constante** (ω). No hay aceleración angular (α = 0).
