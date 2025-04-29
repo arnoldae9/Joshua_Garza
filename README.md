@@ -10,7 +10,7 @@ Temario:
   - [x] Casos especiales
   - [x] Tiro parabólico
 - [x] Movimiento circular
-- [ ] Movimiento de rotación uniforme y Trabajo
+- [x] Movimiento de rotación uniforme y Trabajo
 - [ ] Energía y potencia. 
 
 Pendientes Joshua
@@ -29,4 +29,4 @@ Pendientes Arnold
 - [x] Agregar las notas de tiro parabólico
 - [x] Agregar la tarea de tiro parabólico
 - [x] Hay una clase pagada pendiente
-- [ ] Correcciones en las notas de movimiento circular
+- [x] Correcciones en las notas de movimiento circular
