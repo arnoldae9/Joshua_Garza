@@ -20,8 +20,9 @@ Pendientes Joshua
 - [x] problemas MUA
 - [ ] Problemas de referencia TP
 - [x] Revisar notas tiro vertical y caída libre
-- [ ] Tarea de casos especiales MUA (opcional)
-- [ ] Tarea de movimiento circular
+- [x] Tarea de casos especiales MUA (opcional)
+- [x] Tarea de movimiento circular
+- [ ] Tarea rotación y trabajo
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
