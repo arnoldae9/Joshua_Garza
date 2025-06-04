@@ -11,7 +11,7 @@ Temario:
   - [x] Tiro parabólico
 - [x] Movimiento circular
 - [x] Movimiento de rotación uniforme y Trabajo
-- [ ] Energía y potencia. 
+- [x] Energía y potencia. 
 
 Pendientes Joshua
 - [x] vectores
@@ -22,7 +22,7 @@ Pendientes Joshua
 - [x] Revisar notas tiro vertical y caída libre
 - [x] Tarea de casos especiales MUA (opcional)
 - [x] Tarea de movimiento circular
-- [ ] Tarea rotación y trabajo
+- [x] Tarea rotación y trabajo
 
 Pendientes Arnold
 - [x] Revisar problema de cajita con 60 grados
